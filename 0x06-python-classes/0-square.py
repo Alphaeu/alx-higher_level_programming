@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#0-square.py
+# 0-square.py
+# By Alphaeus<dealphaeus@gmail.com>
 
 """Define a class Square."""
 
