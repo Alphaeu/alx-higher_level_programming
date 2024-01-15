@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Script that matches a State class and
+Script defines a State class and
 a Base class to work with MySQLAlchemy ORM.
 """
 import sys
